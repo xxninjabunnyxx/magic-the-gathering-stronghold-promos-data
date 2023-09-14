@@ -1,0 +1,18 @@
+---
+object: set
+id: 726bc009-a94a-4fd2-acb2-58d8c70b8f1c
+code: psth
+name: Stronghold Promos
+uri: https://api.scryfall.com/sets/726bc009-a94a-4fd2-acb2-58d8c70b8f1c
+scryfall_uri: https://scryfall.com/sets/psth
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsth&unique=prints
+released_at: '1998-03-02'
+set_type: promo
+card_count: 1
+parent_set_code: sth
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: tmp
+block: Tempest
+icon_svg_uri: https://svgs.scryfall.io/sets/sth.svg?1694404800
